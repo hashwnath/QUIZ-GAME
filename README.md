@@ -10,4 +10,6 @@ UML Use Case Diagram - <img src="https://embed.creately.com/2iYpMihM5DO?token=BT
 
 #UML SEQUENCE DIAGRAM ![Quiz Sequence Diagram-2](https://user-images.githubusercontent.com/53908470/143272956-2725a6ae-c640-4d34-8e98-308c9b56e452.png)
 
-#UML STATE DIAGRAM ![Quiz Game State diagram](https://user-images.githubusercontent.com/53908470/143280267-5f1cae0e-bae8-4653-997f-d2320394ed1d.png)
+#UML STATE DIAGRAM
+
+![Quiz Game State diagram](https://user-images.githubusercontent.com/53908470/143280267-5f1cae0e-bae8-4653-997f-d2320394ed1d.png)
