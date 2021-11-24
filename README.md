@@ -13,3 +13,6 @@ UML Use Case Diagram - <img src="https://embed.creately.com/2iYpMihM5DO?token=BT
 #UML STATE DIAGRAM
 
 ![Quiz Game State diagram](https://user-images.githubusercontent.com/53908470/143280267-5f1cae0e-bae8-4653-997f-d2320394ed1d.png)
+
+#UML ACTIVITY DIAGRAM
+![Quiz Activity Diagram](https://user-images.githubusercontent.com/53908470/143286680-78f38f76-d410-4571-bbf2-6f535ea95200.png)
